@@ -1,0 +1,1408 @@
+Actual,Predicted,RiskScore,RiskLevel,RecommendedAction
+False,False,0.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+True,True,52.0,Medium,Send retention email
+False,False,4.0,Low,Normal engagement
+False,False,25.0,Low,Normal engagement
+False,False,37.0,Medium,Send retention email
+False,False,21.0,Low,Normal engagement
+False,True,59.0,Medium,Send retention email
+False,False,15.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,True,59.0,Medium,Send retention email
+True,False,41.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,20.0,Low,Normal engagement
+False,False,9.0,Low,Normal engagement
+False,False,37.0,Medium,Send retention email
+True,True,94.0,High,Assign support manager
+False,False,6.0,Low,Normal engagement
+True,False,44.0,Medium,Send retention email
+True,False,23.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,40.0,Medium,Send retention email
+False,True,86.0,High,Assign support manager
+False,True,59.0,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+True,True,64.0,Medium,Send retention email
+True,False,27.0,Low,Normal engagement
+False,False,24.0,Low,Normal engagement
+True,True,92.0,High,Assign support manager
+True,False,13.0,Low,Normal engagement
+False,False,9.0,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,30.0,Medium,Send retention email
+False,False,50.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+True,False,41.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,27.0,Low,Normal engagement
+False,False,36.0,Medium,Send retention email
+False,False,19.0,Low,Normal engagement
+True,False,22.0,Low,Normal engagement
+True,True,76.0,High,Assign support manager
+False,False,40.0,Medium,Send retention email
+False,False,10.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+True,False,43.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,31.0,Medium,Send retention email
+True,True,60.0,Medium,Send retention email
+False,False,18.0,Low,Normal engagement
+False,True,72.0,High,Assign support manager
+True,False,47.0,Medium,Send retention email
+False,True,66.0,Medium,Send retention email
+True,True,83.0,High,Assign support manager
+False,False,2.0,Low,Normal engagement
+False,False,39.0,Medium,Send retention email
+True,False,3.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,False,19.0,Low,Normal engagement
+True,False,36.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,True,66.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+True,True,73.0,High,Assign support manager
+False,False,1.0,Low,Normal engagement
+True,False,41.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+False,False,20.0,Low,Normal engagement
+False,False,46.0,Medium,Send retention email
+True,False,22.0,Low,Normal engagement
+True,False,49.0,Medium,Send retention email
+False,False,44.0,Medium,Send retention email
+False,False,28.000000000000004,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+True,False,11.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,20.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+True,True,65.0,Medium,Send retention email
+False,False,14.000000000000002,Low,Normal engagement
+False,True,54.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+False,False,36.0,Medium,Send retention email
+False,False,32.0,Medium,Send retention email
+False,False,8.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+True,False,22.0,Low,Normal engagement
+False,False,35.0,Medium,Send retention email
+True,False,35.0,Medium,Send retention email
+False,False,47.0,Medium,Send retention email
+False,False,9.0,Low,Normal engagement
+True,True,60.0,Medium,Send retention email
+False,False,8.0,Low,Normal engagement
+False,False,41.0,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+False,False,15.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,True,79.0,High,Assign support manager
+False,False,0.0,Low,Normal engagement
+False,False,43.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+True,False,5.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,38.0,Medium,Send retention email
+True,True,78.0,High,Assign support manager
+False,False,9.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+True,False,17.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+False,False,7.000000000000001,Low,Normal engagement
+False,False,7.000000000000001,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,17.0,Low,Normal engagement
+True,False,42.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+True,False,25.0,Low,Normal engagement
+True,True,77.0,High,Assign support manager
+False,False,28.000000000000004,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+True,True,73.0,High,Assign support manager
+False,False,19.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,25.0,Low,Normal engagement
+False,False,23.0,Low,Normal engagement
+True,True,54.0,Medium,Send retention email
+False,False,8.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,39.0,Medium,Send retention email
+True,False,43.0,Medium,Send retention email
+True,True,82.0,High,Assign support manager
+False,False,1.0,Low,Normal engagement
+False,True,63.0,Medium,Send retention email
+False,False,4.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+True,True,59.0,Medium,Send retention email
+False,False,15.0,Low,Normal engagement
+False,False,18.0,Low,Normal engagement
+False,False,19.0,Low,Normal engagement
+True,False,31.0,Medium,Send retention email
+True,False,28.999999999999996,Low,Normal engagement
+False,False,9.0,Low,Normal engagement
+False,False,22.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,41.0,Medium,Send retention email
+False,False,5.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+True,True,56.99999999999999,Medium,Send retention email
+True,False,42.0,Medium,Send retention email
+True,True,92.0,High,Assign support manager
+False,False,31.0,Medium,Send retention email
+True,True,79.0,High,Assign support manager
+False,False,7.000000000000001,Low,Normal engagement
+False,False,37.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,False,43.0,Medium,Send retention email
+True,False,43.0,Medium,Send retention email
+False,False,9.0,Low,Normal engagement
+True,True,79.0,High,Assign support manager
+False,False,9.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+True,True,57.99999999999999,Medium,Send retention email
+True,False,25.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,True,63.0,Medium,Send retention email
+False,False,20.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+False,True,56.99999999999999,Medium,Send retention email
+False,False,14.000000000000002,Low,Normal engagement
+True,True,76.0,High,Assign support manager
+True,False,30.0,Medium,Send retention email
+False,True,74.0,High,Assign support manager
+False,False,40.0,Medium,Send retention email
+False,False,4.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+True,True,79.0,High,Assign support manager
+False,False,0.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,27.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+True,False,49.0,Medium,Send retention email
+False,True,60.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+True,True,52.0,Medium,Send retention email
+False,False,20.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+True,True,82.0,High,Assign support manager
+False,False,5.0,Low,Normal engagement
+False,False,26.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,39.0,Medium,Send retention email
+False,False,9.0,Low,Normal engagement
+False,False,27.0,Low,Normal engagement
+True,False,21.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+True,True,55.00000000000001,Medium,Send retention email
+False,True,92.0,High,Assign support manager
+False,False,10.0,Low,Normal engagement
+True,True,71.0,High,Assign support manager
+True,False,28.999999999999996,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,38.0,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+True,True,59.0,Medium,Send retention email
+False,False,25.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,True,57.99999999999999,Medium,Send retention email
+False,False,45.0,Medium,Send retention email
+False,False,15.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,39.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,28.999999999999996,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,24.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,23.0,Low,Normal engagement
+False,False,38.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,10.0,Low,Normal engagement
+True,True,65.0,Medium,Send retention email
+True,True,91.0,High,Assign support manager
+False,False,47.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,31.0,Medium,Send retention email
+False,False,8.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,True,53.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+False,False,14.000000000000002,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,True,85.0,High,Assign support manager
+True,False,16.0,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,False,20.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,13.0,Low,Normal engagement
+False,False,7.000000000000001,Low,Normal engagement
+True,False,7.000000000000001,Low,Normal engagement
+False,False,9.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,35.0,Medium,Send retention email
+True,False,21.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,42.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,False,28.000000000000004,Low,Normal engagement
+True,True,72.0,High,Assign support manager
+False,False,2.0,Low,Normal engagement
+True,False,24.0,Low,Normal engagement
+False,False,21.0,Low,Normal engagement
+False,False,28.000000000000004,Low,Normal engagement
+False,False,22.0,Low,Normal engagement
+True,True,51.0,Medium,Send retention email
+True,False,43.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+True,False,41.0,Medium,Send retention email
+False,False,4.0,Low,Normal engagement
+False,False,30.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+True,True,93.0,High,Assign support manager
+True,False,2.0,Low,Normal engagement
+False,False,40.0,Medium,Send retention email
+False,False,25.0,Low,Normal engagement
+False,True,59.0,Medium,Send retention email
+True,False,39.0,Medium,Send retention email
+True,False,13.0,Low,Normal engagement
+False,False,31.0,Medium,Send retention email
+True,True,57.99999999999999,Medium,Send retention email
+True,False,49.0,Medium,Send retention email
+False,False,11.0,Low,Normal engagement
+True,False,28.000000000000004,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+True,False,25.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+True,True,73.0,High,Assign support manager
+False,False,1.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,True,61.0,Medium,Send retention email
+True,False,11.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+True,True,86.0,High,Assign support manager
+False,False,18.0,Low,Normal engagement
+False,False,49.0,Medium,Send retention email
+False,False,9.0,Low,Normal engagement
+False,False,10.0,Low,Normal engagement
+True,False,30.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,45.0,Medium,Send retention email
+False,False,11.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+True,False,20.0,Low,Normal engagement
+False,False,19.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,True,73.0,High,Assign support manager
+False,False,15.0,Low,Normal engagement
+True,False,32.0,Medium,Send retention email
+True,False,1.0,Low,Normal engagement
+False,False,10.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,27.0,Low,Normal engagement
+False,False,48.0,Medium,Send retention email
+True,False,45.0,Medium,Send retention email
+False,False,45.0,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+False,False,10.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+True,False,18.0,Low,Normal engagement
+False,False,27.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,True,75.0,High,Assign support manager
+False,False,48.0,Medium,Send retention email
+False,False,5.0,Low,Normal engagement
+False,False,18.0,Low,Normal engagement
+True,True,56.00000000000001,Medium,Send retention email
+True,False,49.0,Medium,Send retention email
+True,True,56.99999999999999,Medium,Send retention email
+True,False,41.0,Medium,Send retention email
+False,False,41.0,Medium,Send retention email
+True,False,43.0,Medium,Send retention email
+False,False,43.0,Medium,Send retention email
+False,False,11.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,47.0,Medium,Send retention email
+False,False,13.0,Low,Normal engagement
+False,False,14.000000000000002,Low,Normal engagement
+False,False,14.000000000000002,Low,Normal engagement
+False,False,10.0,Low,Normal engagement
+False,False,30.0,Medium,Send retention email
+True,True,81.0,High,Assign support manager
+False,False,26.0,Low,Normal engagement
+True,False,22.0,Low,Normal engagement
+False,False,42.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,9.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+False,False,9.0,Low,Normal engagement
+False,False,38.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,False,14.000000000000002,Low,Normal engagement
+False,False,39.0,Medium,Send retention email
+False,False,11.0,Low,Normal engagement
+True,True,54.0,Medium,Send retention email
+True,False,35.0,Medium,Send retention email
+True,False,35.0,Medium,Send retention email
+True,False,35.0,Medium,Send retention email
+False,False,14.000000000000002,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+True,False,49.0,Medium,Send retention email
+False,False,19.0,Low,Normal engagement
+False,False,20.0,Low,Normal engagement
+False,False,17.0,Low,Normal engagement
+False,False,10.0,Low,Normal engagement
+False,False,28.000000000000004,Low,Normal engagement
+False,False,9.0,Low,Normal engagement
+False,False,20.0,Low,Normal engagement
+False,False,31.0,Medium,Send retention email
+False,False,23.0,Low,Normal engagement
+True,False,12.0,Low,Normal engagement
+False,False,37.0,Medium,Send retention email
+False,False,21.0,Low,Normal engagement
+False,False,7.000000000000001,Low,Normal engagement
+False,False,7.000000000000001,Low,Normal engagement
+False,False,23.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,True,78.0,High,Assign support manager
+False,False,0.0,Low,Normal engagement
+True,True,55.00000000000001,Medium,Send retention email
+True,False,26.0,Low,Normal engagement
+True,False,16.0,Low,Normal engagement
+True,False,36.0,Medium,Send retention email
+False,False,26.0,Low,Normal engagement
+False,False,26.0,Low,Normal engagement
+True,True,52.0,Medium,Send retention email
+True,False,46.0,Medium,Send retention email
+True,False,50.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,15.0,Low,Normal engagement
+False,False,13.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+True,True,94.0,High,Assign support manager
+True,False,24.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,28.000000000000004,Low,Normal engagement
+False,False,10.0,Low,Normal engagement
+True,True,61.0,Medium,Send retention email
+True,True,75.0,High,Assign support manager
+False,False,47.0,Medium,Send retention email
+True,True,54.0,Medium,Send retention email
+False,True,56.99999999999999,Medium,Send retention email
+False,False,4.0,Low,Normal engagement
+True,False,9.0,Low,Normal engagement
+True,True,71.0,High,Assign support manager
+False,False,14.000000000000002,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+True,False,12.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+True,False,25.0,Low,Normal engagement
+True,False,35.0,Medium,Send retention email
+False,False,4.0,Low,Normal engagement
+True,True,87.0,High,Assign support manager
+False,False,39.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,False,23.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+False,True,65.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+True,False,35.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,30.0,Medium,Send retention email
+True,True,69.0,Medium,Send retention email
+False,False,30.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,40.0,Medium,Send retention email
+False,False,7.000000000000001,Low,Normal engagement
+False,False,23.0,Low,Normal engagement
+False,False,22.0,Low,Normal engagement
+False,False,26.0,Low,Normal engagement
+True,True,59.0,Medium,Send retention email
+False,False,40.0,Medium,Send retention email
+False,False,20.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+False,False,17.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,True,75.0,High,Assign support manager
+False,False,9.0,Low,Normal engagement
+True,False,43.0,Medium,Send retention email
+False,False,33.0,Medium,Send retention email
+True,False,19.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,43.0,Medium,Send retention email
+True,True,93.0,High,Assign support manager
+False,False,28.000000000000004,Low,Normal engagement
+True,False,22.0,Low,Normal engagement
+True,False,13.0,Low,Normal engagement
+False,True,63.0,Medium,Send retention email
+False,False,48.0,Medium,Send retention email
+False,False,9.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,42.0,Medium,Send retention email
+False,False,27.0,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,True,57.99999999999999,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+True,False,23.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+True,False,21.0,Low,Normal engagement
+False,False,20.0,Low,Normal engagement
+False,True,64.0,Medium,Send retention email
+False,False,9.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,21.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,28.999999999999996,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+True,False,25.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,28.000000000000004,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+False,True,57.99999999999999,Medium,Send retention email
+False,False,8.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,39.0,Medium,Send retention email
+False,False,20.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,19.0,Low,Normal engagement
+True,True,67.0,Medium,Send retention email
+False,False,19.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+True,True,77.0,High,Assign support manager
+False,False,0.0,Low,Normal engagement
+True,True,71.0,High,Assign support manager
+False,False,9.0,Low,Normal engagement
+True,False,45.0,Medium,Send retention email
+False,False,9.0,Low,Normal engagement
+True,True,62.0,Medium,Send retention email
+False,False,24.0,Low,Normal engagement
+False,False,18.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+False,False,15.0,Low,Normal engagement
+True,False,18.0,Low,Normal engagement
+False,False,25.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,False,30.0,Medium,Send retention email
+True,True,61.0,Medium,Send retention email
+True,True,53.0,Medium,Send retention email
+True,True,90.0,High,Assign support manager
+False,False,19.0,Low,Normal engagement
+False,True,93.0,High,Assign support manager
+False,False,9.0,Low,Normal engagement
+False,True,62.0,Medium,Send retention email
+True,False,7.000000000000001,Low,Normal engagement
+False,False,31.0,Medium,Send retention email
+False,False,14.000000000000002,Low,Normal engagement
+True,False,7.000000000000001,Low,Normal engagement
+False,False,18.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,31.0,Medium,Send retention email
+False,False,23.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+True,False,35.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,28.000000000000004,Low,Normal engagement
+False,False,23.0,Low,Normal engagement
+False,True,59.0,Medium,Send retention email
+False,False,42.0,Medium,Send retention email
+False,True,80.0,High,Assign support manager
+False,False,3.0,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,15.0,Low,Normal engagement
+False,False,14.000000000000002,Low,Normal engagement
+False,False,25.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+True,False,0.0,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+True,True,63.0,Medium,Send retention email
+False,True,57.99999999999999,Medium,Send retention email
+False,False,10.0,Low,Normal engagement
+True,True,54.0,Medium,Send retention email
+False,False,4.0,Low,Normal engagement
+True,True,59.0,Medium,Send retention email
+False,False,39.0,Medium,Send retention email
+True,False,27.0,Low,Normal engagement
+True,True,83.0,High,Assign support manager
+True,True,51.0,Medium,Send retention email
+False,False,10.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,True,60.0,Medium,Send retention email
+True,False,36.0,Medium,Send retention email
+False,False,4.0,Low,Normal engagement
+False,False,24.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,False,26.0,Low,Normal engagement
+False,False,36.0,Medium,Send retention email
+True,False,43.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,9.0,Low,Normal engagement
+False,True,70.0,High,Assign support manager
+False,False,11.0,Low,Normal engagement
+False,True,71.0,High,Assign support manager
+False,False,48.0,Medium,Send retention email
+False,False,4.0,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,True,65.0,Medium,Send retention email
+False,True,59.0,Medium,Send retention email
+False,False,22.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,False,41.0,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+True,False,41.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+True,False,18.0,Low,Normal engagement
+True,True,60.0,Medium,Send retention email
+False,False,21.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,33.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+True,False,2.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+True,True,57.99999999999999,Medium,Send retention email
+False,True,56.99999999999999,Medium,Send retention email
+False,False,34.0,Medium,Send retention email
+False,False,15.0,Low,Normal engagement
+True,False,28.999999999999996,Low,Normal engagement
+True,True,67.0,Medium,Send retention email
+False,False,4.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,40.0,Medium,Send retention email
+False,False,15.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+True,True,82.0,High,Assign support manager
+True,False,35.0,Medium,Send retention email
+False,False,34.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+True,True,66.0,Medium,Send retention email
+False,False,5.0,Low,Normal engagement
+True,False,30.0,Medium,Send retention email
+True,True,61.0,Medium,Send retention email
+False,False,22.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+True,True,93.0,High,Assign support manager
+False,False,3.0,Low,Normal engagement
+True,True,63.0,Medium,Send retention email
+False,False,15.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,False,17.0,Low,Normal engagement
+True,False,42.0,Medium,Send retention email
+True,False,40.0,Medium,Send retention email
+False,False,4.0,Low,Normal engagement
+True,True,63.0,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,35.0,Medium,Send retention email
+False,False,17.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+True,False,47.0,Medium,Send retention email
+True,False,49.0,Medium,Send retention email
+False,False,23.0,Low,Normal engagement
+True,False,14.000000000000002,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+True,False,17.0,Low,Normal engagement
+False,False,9.0,Low,Normal engagement
+False,False,20.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+True,False,34.0,Medium,Send retention email
+True,False,21.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+True,True,51.0,Medium,Send retention email
+False,False,8.0,Low,Normal engagement
+True,False,22.0,Low,Normal engagement
+True,True,52.0,Medium,Send retention email
+True,True,87.0,High,Assign support manager
+True,True,55.00000000000001,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+True,False,49.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,False,35.0,Medium,Send retention email
+False,False,4.0,Low,Normal engagement
+True,True,86.0,High,Assign support manager
+False,False,27.0,Low,Normal engagement
+False,False,9.0,Low,Normal engagement
+True,False,26.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+True,True,51.0,Medium,Send retention email
+False,False,28.000000000000004,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+True,True,63.0,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+True,False,24.0,Low,Normal engagement
+True,True,56.99999999999999,Medium,Send retention email
+False,False,33.0,Medium,Send retention email
+False,False,10.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+True,False,22.0,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,15.0,Low,Normal engagement
+True,False,12.0,Low,Normal engagement
+True,True,73.0,High,Assign support manager
+False,False,7.000000000000001,Low,Normal engagement
+True,False,35.0,Medium,Send retention email
+False,False,8.0,Low,Normal engagement
+True,True,91.0,High,Assign support manager
+False,False,38.0,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+False,False,7.000000000000001,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+False,False,20.0,Low,Normal engagement
+False,False,18.0,Low,Normal engagement
+True,False,14.000000000000002,Low,Normal engagement
+True,False,2.0,Low,Normal engagement
+False,False,26.0,Low,Normal engagement
+True,False,0.0,Low,Normal engagement
+True,True,51.0,Medium,Send retention email
+False,False,10.0,Low,Normal engagement
+False,False,10.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+True,True,61.0,Medium,Send retention email
+True,True,79.0,High,Assign support manager
+False,False,8.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+False,False,30.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+True,False,46.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,True,60.0,Medium,Send retention email
+False,False,39.0,Medium,Send retention email
+False,False,6.0,Low,Normal engagement
+False,False,26.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,False,41.0,Medium,Send retention email
+True,False,6.0,Low,Normal engagement
+False,False,37.0,Medium,Send retention email
+True,True,59.0,Medium,Send retention email
+False,True,51.0,Medium,Send retention email
+False,False,23.0,Low,Normal engagement
+True,False,16.0,Low,Normal engagement
+True,True,80.0,High,Assign support manager
+False,False,1.0,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+False,False,28.999999999999996,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,True,65.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+True,False,27.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+True,False,32.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+True,False,27.0,Low,Normal engagement
+True,False,46.0,Medium,Send retention email
+True,True,66.0,Medium,Send retention email
+False,False,43.0,Medium,Send retention email
+False,False,41.0,Medium,Send retention email
+False,False,7.000000000000001,Low,Normal engagement
+False,False,32.0,Medium,Send retention email
+False,False,40.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,True,52.0,Medium,Send retention email
+False,False,17.0,Low,Normal engagement
+False,False,31.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,False,20.0,Low,Normal engagement
+True,False,21.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,False,38.0,Medium,Send retention email
+False,False,28.000000000000004,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,49.0,Medium,Send retention email
+False,False,9.0,Low,Normal engagement
+False,False,18.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+False,False,20.0,Low,Normal engagement
+False,False,20.0,Low,Normal engagement
+True,True,55.00000000000001,Medium,Send retention email
+False,False,14.000000000000002,Low,Normal engagement
+False,False,7.000000000000001,Low,Normal engagement
+False,False,21.0,Low,Normal engagement
+False,False,9.0,Low,Normal engagement
+False,False,19.0,Low,Normal engagement
+False,False,18.0,Low,Normal engagement
+False,False,20.0,Low,Normal engagement
+False,False,23.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+True,True,54.0,Medium,Send retention email
+False,False,25.0,Low,Normal engagement
+False,False,22.0,Low,Normal engagement
+False,False,10.0,Low,Normal engagement
+True,False,26.0,Low,Normal engagement
+False,False,41.0,Medium,Send retention email
+True,True,69.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,20.0,Low,Normal engagement
+False,True,51.0,Medium,Send retention email
+False,False,7.000000000000001,Low,Normal engagement
+False,True,98.0,High,Assign support manager
+True,False,49.0,Medium,Send retention email
+True,False,32.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,23.0,Low,Normal engagement
+False,True,56.99999999999999,Medium,Send retention email
+True,True,85.0,High,Assign support manager
+False,False,0.0,Low,Normal engagement
+True,True,62.0,Medium,Send retention email
+False,False,14.000000000000002,Low,Normal engagement
+False,False,34.0,Medium,Send retention email
+True,True,99.0,High,Assign support manager
+False,False,41.0,Medium,Send retention email
+True,False,18.0,Low,Normal engagement
+True,True,52.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,False,28.000000000000004,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+True,False,44.0,Medium,Send retention email
+False,False,43.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,False,7.000000000000001,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,9.0,Low,Normal engagement
+True,True,65.0,Medium,Send retention email
+True,False,24.0,Low,Normal engagement
+True,True,79.0,High,Assign support manager
+False,False,38.0,Medium,Send retention email
+True,False,11.0,Low,Normal engagement
+False,False,7.000000000000001,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,13.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+True,True,93.0,High,Assign support manager
+False,False,3.0,Low,Normal engagement
+True,True,89.0,High,Assign support manager
+False,False,12.0,Low,Normal engagement
+False,True,69.0,Medium,Send retention email
+False,False,21.0,Low,Normal engagement
+False,False,26.0,Low,Normal engagement
+False,False,34.0,Medium,Send retention email
+False,False,41.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,10.0,Low,Normal engagement
+True,True,90.0,High,Assign support manager
+False,False,9.0,Low,Normal engagement
+False,False,31.0,Medium,Send retention email
+True,False,3.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+True,False,12.0,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+True,False,48.0,Medium,Send retention email
+False,False,4.0,Low,Normal engagement
+False,False,32.0,Medium,Send retention email
+True,False,46.0,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+False,False,23.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+False,False,28.000000000000004,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+True,False,45.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,False,28.000000000000004,Low,Normal engagement
+False,False,7.000000000000001,Low,Normal engagement
+False,True,52.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,7.000000000000001,Low,Normal engagement
+False,False,36.0,Medium,Send retention email
+True,True,73.0,High,Assign support manager
+False,False,1.0,Low,Normal engagement
+False,False,19.0,Low,Normal engagement
+False,False,49.0,Medium,Send retention email
+False,True,64.0,Medium,Send retention email
+False,False,13.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,33.0,Medium,Send retention email
+False,False,6.0,Low,Normal engagement
+True,False,50.0,Medium,Send retention email
+False,False,33.0,Medium,Send retention email
+True,True,96.0,High,Assign support manager
+False,False,5.0,Low,Normal engagement
+True,True,59.0,Medium,Send retention email
+False,False,7.000000000000001,Low,Normal engagement
+False,False,32.0,Medium,Send retention email
+False,True,55.00000000000001,Medium,Send retention email
+False,False,4.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,False,41.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+True,False,17.0,Low,Normal engagement
+False,True,63.0,Medium,Send retention email
+False,False,49.0,Medium,Send retention email
+False,True,52.0,Medium,Send retention email
+False,False,50.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+True,True,51.0,Medium,Send retention email
+False,False,17.0,Low,Normal engagement
+True,True,59.0,Medium,Send retention email
+False,False,5.0,Low,Normal engagement
+False,False,18.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+False,False,44.0,Medium,Send retention email
+True,False,47.0,Medium,Send retention email
+True,True,79.0,High,Assign support manager
+False,False,1.0,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+False,False,46.0,Medium,Send retention email
+False,False,47.0,Medium,Send retention email
+False,False,9.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,9.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,False,33.0,Medium,Send retention email
+False,True,89.0,High,Assign support manager
+True,False,13.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+False,True,80.0,High,Assign support manager
+False,False,7.000000000000001,Low,Normal engagement
+True,False,18.0,Low,Normal engagement
+True,True,82.0,High,Assign support manager
+False,False,32.0,Medium,Send retention email
+False,False,11.0,Low,Normal engagement
+False,True,59.0,Medium,Send retention email
+True,False,37.0,Medium,Send retention email
+False,True,51.0,Medium,Send retention email
+False,False,7.000000000000001,Low,Normal engagement
+False,False,10.0,Low,Normal engagement
+False,False,26.0,Low,Normal engagement
+False,False,40.0,Medium,Send retention email
+False,False,12.0,Low,Normal engagement
+False,False,48.0,Medium,Send retention email
+False,False,23.0,Low,Normal engagement
+True,False,47.0,Medium,Send retention email
+False,False,24.0,Low,Normal engagement
+False,False,43.0,Medium,Send retention email
+True,False,36.0,Medium,Send retention email
+False,True,55.00000000000001,Medium,Send retention email
+False,False,10.0,Low,Normal engagement
+True,False,50.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+False,False,13.0,Low,Normal engagement
+False,False,13.0,Low,Normal engagement
+True,True,65.0,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+True,True,76.0,High,Assign support manager
+False,False,35.0,Medium,Send retention email
+False,False,16.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+False,False,21.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+True,True,60.0,Medium,Send retention email
+True,True,72.0,High,Assign support manager
+False,False,2.0,Low,Normal engagement
+True,True,82.0,High,Assign support manager
+False,False,33.0,Medium,Send retention email
+True,False,25.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+True,True,95.0,High,Assign support manager
+False,False,45.0,Medium,Send retention email
+True,True,71.0,High,Assign support manager
+False,False,34.0,Medium,Send retention email
+False,False,34.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,7.000000000000001,Low,Normal engagement
+False,False,28.999999999999996,Low,Normal engagement
+False,False,33.0,Medium,Send retention email
+False,False,5.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+True,False,3.0,Low,Normal engagement
+False,False,14.000000000000002,Low,Normal engagement
+False,True,57.99999999999999,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+True,True,51.0,Medium,Send retention email
+True,False,6.0,Low,Normal engagement
+False,True,52.0,Medium,Send retention email
+False,False,22.0,Low,Normal engagement
+True,False,25.0,Low,Normal engagement
+False,False,14.000000000000002,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+True,False,45.0,Medium,Send retention email
+True,False,20.0,Low,Normal engagement
+False,False,36.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,True,66.0,Medium,Send retention email
+False,False,41.0,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+True,False,41.0,Medium,Send retention email
+True,True,52.0,Medium,Send retention email
+False,False,20.0,Low,Normal engagement
+False,False,38.0,Medium,Send retention email
+False,False,15.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,False,28.999999999999996,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+True,True,87.0,High,Assign support manager
+False,False,50.0,Medium,Send retention email
+True,False,46.0,Medium,Send retention email
+True,False,6.0,Low,Normal engagement
+True,True,70.0,High,Assign support manager
+False,True,72.0,High,Assign support manager
+False,False,36.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+True,False,41.0,Medium,Send retention email
+True,False,10.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+True,True,76.0,High,Assign support manager
+False,False,28.000000000000004,Low,Normal engagement
+True,False,45.0,Medium,Send retention email
+False,True,74.0,High,Assign support manager
+False,False,15.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,14.000000000000002,Low,Normal engagement
+False,False,18.0,Low,Normal engagement
+True,False,16.0,Low,Normal engagement
+False,True,75.0,High,Assign support manager
+False,True,51.0,Medium,Send retention email
+False,False,47.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,41.0,Medium,Send retention email
+False,False,35.0,Medium,Send retention email
+True,True,90.0,High,Assign support manager
+False,False,18.0,Low,Normal engagement
+True,True,73.0,High,Assign support manager
+True,False,9.0,Low,Normal engagement
+False,False,14.000000000000002,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,32.0,Medium,Send retention email
+True,False,20.0,Low,Normal engagement
+False,False,19.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,21.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+True,False,49.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,True,66.0,Medium,Send retention email
+False,True,51.0,Medium,Send retention email
+True,False,32.0,Medium,Send retention email
+False,False,26.0,Low,Normal engagement
+True,False,23.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+True,False,44.0,Medium,Send retention email
+False,False,22.0,Low,Normal engagement
+False,False,39.0,Medium,Send retention email
+False,False,7.000000000000001,Low,Normal engagement
+True,True,60.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,False,42.0,Medium,Send retention email
+True,True,62.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,36.0,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+False,False,20.0,Low,Normal engagement
+False,True,84.0,High,Assign support manager
+False,False,13.0,Low,Normal engagement
+False,False,28.999999999999996,Low,Normal engagement
+True,False,36.0,Medium,Send retention email
+False,False,8.0,Low,Normal engagement
+True,False,23.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,False,14.000000000000002,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,38.0,Medium,Send retention email
+False,False,6.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+True,True,63.0,Medium,Send retention email
+False,False,28.000000000000004,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,True,89.0,High,Assign support manager
+True,True,68.0,Medium,Send retention email
+False,False,18.0,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+False,False,10.0,Low,Normal engagement
+False,False,7.000000000000001,Low,Normal engagement
+False,False,27.0,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+True,True,56.99999999999999,Medium,Send retention email
+True,False,19.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+True,True,59.0,Medium,Send retention email
+False,False,27.0,Low,Normal engagement
+True,True,62.0,Medium,Send retention email
+False,False,35.0,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,31.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+True,False,1.0,Low,Normal engagement
+False,True,52.0,Medium,Send retention email
+False,False,18.0,Low,Normal engagement
+True,True,65.0,Medium,Send retention email
+False,False,23.0,Low,Normal engagement
+True,True,66.0,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+False,False,35.0,Medium,Send retention email
+False,False,9.0,Low,Normal engagement
+False,False,31.0,Medium,Send retention email
+False,False,43.0,Medium,Send retention email
+False,False,9.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+True,True,86.0,High,Assign support manager
+True,True,73.0,High,Assign support manager
+False,False,19.0,Low,Normal engagement
+False,False,10.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,False,47.0,Medium,Send retention email
+True,True,75.0,High,Assign support manager
+False,False,1.0,Low,Normal engagement
+True,False,45.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+True,True,89.0,High,Assign support manager
+True,True,55.00000000000001,Medium,Send retention email
+True,False,2.0,Low,Normal engagement
+False,True,64.0,Medium,Send retention email
+False,False,28.999999999999996,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,True,82.0,High,Assign support manager
+False,False,19.0,Low,Normal engagement
+True,True,72.0,High,Assign support manager
+True,False,14.000000000000002,Low,Normal engagement
+False,False,37.0,Medium,Send retention email
+False,False,9.0,Low,Normal engagement
+False,False,18.0,Low,Normal engagement
+False,False,34.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,False,28.999999999999996,Low,Normal engagement
+False,False,23.0,Low,Normal engagement
+False,False,48.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,False,15.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,22.0,Low,Normal engagement
+False,False,19.0,Low,Normal engagement
+False,True,83.0,High,Assign support manager
+False,False,12.0,Low,Normal engagement
+False,False,27.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,40.0,Medium,Send retention email
+True,False,42.0,Medium,Send retention email
+False,False,18.0,Low,Normal engagement
+True,True,77.0,High,Assign support manager
+False,True,59.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,23.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+True,False,35.0,Medium,Send retention email
+True,True,59.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+False,False,44.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+True,False,22.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+False,False,24.0,Low,Normal engagement
+True,True,85.0,High,Assign support manager
+True,False,47.0,Medium,Send retention email
+False,False,5.0,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+True,False,31.0,Medium,Send retention email
+True,False,26.0,Low,Normal engagement
+True,True,51.0,Medium,Send retention email
+False,False,38.0,Medium,Send retention email
+True,False,35.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,7.000000000000001,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+False,False,14.000000000000002,Low,Normal engagement
+False,False,25.0,Low,Normal engagement
+True,False,50.0,Medium,Send retention email
+False,False,11.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+True,True,91.0,High,Assign support manager
+False,False,17.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+False,True,65.0,Medium,Send retention email
+False,False,3.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,False,26.0,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+True,False,41.0,Medium,Send retention email
+True,True,64.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,44.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,True,55.00000000000001,Medium,Send retention email
+True,False,22.0,Low,Normal engagement
+False,False,24.0,Low,Normal engagement
+False,False,6.0,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+True,False,45.0,Medium,Send retention email
+False,False,27.0,Low,Normal engagement
+True,False,16.0,Low,Normal engagement
+True,True,63.0,Medium,Send retention email
+True,False,26.0,Low,Normal engagement
+False,False,47.0,Medium,Send retention email
+True,True,59.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,38.0,Medium,Send retention email
+False,False,42.0,Medium,Send retention email
+False,False,36.0,Medium,Send retention email
+False,True,57.99999999999999,Medium,Send retention email
+False,False,13.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,False,10.0,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+True,True,77.0,High,Assign support manager
+True,True,86.0,High,Assign support manager
+False,False,4.0,Low,Normal engagement
+True,True,51.0,Medium,Send retention email
+False,False,20.0,Low,Normal engagement
+True,True,92.0,High,Assign support manager
+False,False,39.0,Medium,Send retention email
+False,False,39.0,Medium,Send retention email
+False,False,23.0,Low,Normal engagement
+True,False,22.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+True,False,48.0,Medium,Send retention email
+False,False,21.0,Low,Normal engagement
+False,True,92.0,High,Assign support manager
+False,True,71.0,High,Assign support manager
+False,False,10.0,Low,Normal engagement
+True,True,78.0,High,Assign support manager
+True,False,38.0,Medium,Send retention email
+False,False,21.0,Low,Normal engagement
+False,False,30.0,Medium,Send retention email
+False,False,23.0,Low,Normal engagement
+False,False,18.0,Low,Normal engagement
+False,False,33.0,Medium,Send retention email
+False,False,2.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+False,True,57.99999999999999,Medium,Send retention email
+False,True,54.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+False,True,60.0,Medium,Send retention email
+False,False,16.0,Low,Normal engagement
+False,False,49.0,Medium,Send retention email
+False,False,10.0,Low,Normal engagement
+True,True,72.0,High,Assign support manager
+False,False,1.0,Low,Normal engagement
+True,True,82.0,High,Assign support manager
+True,False,23.0,Low,Normal engagement
+False,False,32.0,Medium,Send retention email
+True,True,78.0,High,Assign support manager
+False,False,9.0,Low,Normal engagement
+False,False,50.0,Medium,Send retention email
+False,False,4.0,Low,Normal engagement
+False,False,21.0,Low,Normal engagement
+True,False,40.0,Medium,Send retention email
+False,False,21.0,Low,Normal engagement
+True,False,36.0,Medium,Send retention email
+False,False,28.000000000000004,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+True,True,68.0,Medium,Send retention email
+False,True,67.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+True,False,16.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,33.0,Medium,Send retention email
+False,False,16.0,Low,Normal engagement
+True,False,9.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,40.0,Medium,Send retention email
+False,False,18.0,Low,Normal engagement
+False,False,24.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+True,False,23.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+False,False,27.0,Low,Normal engagement
+False,False,25.0,Low,Normal engagement
+True,False,28.000000000000004,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,12.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,True,72.0,High,Assign support manager
+False,True,71.0,High,Assign support manager
+False,False,38.0,Medium,Send retention email
+False,False,21.0,Low,Normal engagement
+False,False,1.0,Low,Normal engagement
+True,False,35.0,Medium,Send retention email
+True,False,13.0,Low,Normal engagement
+False,False,3.0,Low,Normal engagement
+False,True,59.0,Medium,Send retention email
+False,False,25.0,Low,Normal engagement
+False,False,21.0,Low,Normal engagement
+True,True,83.0,High,Assign support manager
+True,False,21.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+False,False,13.0,Low,Normal engagement
+False,False,30.0,Medium,Send retention email
+False,False,50.0,Medium,Send retention email
+False,True,52.0,Medium,Send retention email
+False,False,37.0,Medium,Send retention email
+False,False,17.0,Low,Normal engagement
+False,False,19.0,Low,Normal engagement
+False,False,35.0,Medium,Send retention email
+True,False,30.0,Medium,Send retention email
+False,False,35.0,Medium,Send retention email
+False,False,6.0,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+False,False,41.0,Medium,Send retention email
+False,True,53.0,Medium,Send retention email
+True,True,76.0,High,Assign support manager
+False,False,25.0,Low,Normal engagement
+False,False,9.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,8.0,Low,Normal engagement
+False,False,21.0,Low,Normal engagement
+False,False,15.0,Low,Normal engagement
+True,False,18.0,Low,Normal engagement
+False,True,56.00000000000001,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,15.0,Low,Normal engagement
+True,False,31.0,Medium,Send retention email
+True,False,15.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,7.000000000000001,Low,Normal engagement
+True,True,87.0,High,Assign support manager
+False,False,3.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+False,True,74.0,High,Assign support manager
+False,False,39.0,Medium,Send retention email
+True,False,7.000000000000001,Low,Normal engagement
+False,False,4.0,Low,Normal engagement
+True,True,87.0,High,Assign support manager
+False,False,5.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,5.0,Low,Normal engagement
+False,True,64.0,Medium,Send retention email
+False,False,45.0,Medium,Send retention email
+False,False,0.0,Low,Normal engagement
+False,False,2.0,Low,Normal engagement
+False,False,16.0,Low,Normal engagement
+False,False,21.0,Low,Normal engagement
+True,False,13.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+False,False,18.0,Low,Normal engagement
+False,False,25.0,Low,Normal engagement
+False,False,11.0,Low,Normal engagement
+False,False,38.0,Medium,Send retention email
+False,False,1.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
+True,False,42.0,Medium,Send retention email
+False,False,27.0,Low,Normal engagement
+False,True,63.0,Medium,Send retention email
+False,False,7.000000000000001,Low,Normal engagement
+False,False,23.0,Low,Normal engagement
+False,False,0.0,Low,Normal engagement
