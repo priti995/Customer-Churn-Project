@@ -23,7 +23,7 @@ An interactive Power BI dashboard providing a complete overview of customer chur
 <img width="2253" height="1262" alt="image" src="https://github.com/user-attachments/assets/8d77ce53-1ec2-46c6-9f21-af1d5348acec" />
 
 
-# 2. Customer Risk Analysis & Retention Insights:
+# 2. Churn Risk & Business Recommendation Dashboard:
 This dashboard focuses on churn risk segmentation, business insights, and recommended retention strategies. It helps identify high-risk customers and suggests proactive actions to reduce customer loss.
 <img width="2001" height="1132" alt="image" src="https://github.com/user-attachments/assets/e07fb844-e784-45bf-b0b7-9e8c7c381208" />
 
