@@ -26,6 +26,7 @@ Python | SQL | Pandas | Scikit-learn | Power BI | Streamlit | GitHub
 
 ## Business Impact
 This project helps businesses:
+
 • Identify high-risk customers  
 • Understand churn patterns  
 • Improve customer retention strategies  
