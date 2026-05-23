@@ -23,6 +23,12 @@ Python | SQL | Pandas | Scikit-learn | Power BI | Streamlit | GitHub
 
 <img width="2001" height="1132" alt="image" src="https://github.com/user-attachments/assets/e07fb844-e784-45bf-b0b7-9e8c7c381208" />
 
+## Frontend Preview
+<img width="2880" height="1800" alt="Screenshot 2026-05-23 170421" src="https://github.com/user-attachments/assets/875f8bdd-5d60-4a00-afec-737dbe261242" />
+
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ca34ac19-801c-4e62-bcd5-8ff7cbd4fb45" />
+
 
 ## Business Impact
 This project helps businesses:
