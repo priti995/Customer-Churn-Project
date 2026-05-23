@@ -17,6 +17,10 @@ An end-to-end data analytics and machine learning project designed to identify c
 ## Technologies Used
 Python | SQL | Pandas | Scikit-learn | Power BI | Streamlit | GitHub
 
+## Dashboard 
+<img width="2004" height="1124" alt="image" src="https://github.com/user-attachments/assets/702ad5df-bfe3-47c9-b36c-87aa13f536bc" />
+
+
 ## Business Impact
 This project helps businesses:
 • Identify high-risk customers  
