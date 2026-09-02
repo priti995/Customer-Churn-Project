@@ -20,7 +20,7 @@ Python | SQL | Pandas | Scikit-learn | Power BI | Streamlit | GitHub
 ## Dashboard 
 # 1. Customer Churn Analytics Dashboard:
 An interactive Power BI dashboard providing a complete overview of customer churn trends, customer behavior, contract analysis, payment methods, tenure patterns, and monthly charge insights to support business decision-making.
-<img width="2253" height="1262" alt="image" src="https://github.com/user-attachments/assets/8d77ce53-1ec2-46c6-9f21-af1d5348acec" />
+<img width="2258" height="1268" alt="Screenshot 2026-09-02 183138" src="https://github.com/user-attachments/assets/72341a99-e890-49af-a60b-dfb48afc61d8" />
 
 
 # 2. Churn Risk & Business Recommendation Dashboard:
